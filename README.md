@@ -9,17 +9,23 @@ We understand that evaluate your RAG might be painful and difficult.  Current ex
 
 > 🤫 Chance that if you are using GPT-3.5-Turbo to evaluate your RAG, your result might be _"a bit"_ differences compare to the result from better the model like GPT-4-Turbo or Llama-3-70b - which required heavy machine 😥
 
+![image](images/problem.png)
+
 At __detereval__, we want to provide you with a more robust and determine method helps you to analyse your RAG more effectively, increase the transparency and explainability in your RAG pipeline.
 This way you improve your RAG performance by adjusting the correct components that required improvement.
 
 
-## Categories
+## Metrics Category
 
-There are 4 main categories with each category covers the Question measurement aspect, Answer measurement aspect and Context measurement aspect
+__detereval__ aims to bring the foundation work but with different approach. The idea of this work built upon previous foundation that has been layout by other method framework like RAGAS, RGB, TruLens. But we aim for more determine methods.
 
-![image](detereval_img.png)
+![image](images/metrics_definition.png)
 
-This work built upon previous foundation that has been layout by other method framework like RAGAS, RGB, TruLens. But we aim for more determine methods.
+## Preliminary Workflow Design
+
+This is the workflow design for __detereval__
+
+![image](images/workflow.png)
 
 ## Installation
 
